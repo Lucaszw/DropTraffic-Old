@@ -1,0 +1,35 @@
+{
+  "name": "droptraffic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "autoprefixer-loader": "^3.2.0",
+    "babel-preset-stage-2": "^6.22.0",
+    "compass": "^0.1.1",
+    "css-loader": "^0.27.3",
+    "express": "^4.15.2",
+    "jquery": "^3.2.0",
+    "matter-js": "^0.12.0",
+    "ms": "^2.0.0",
+    "node-sass": "^4.5.1",
+    "pathseg": "^1.0.2",
+    "poly-decomp": "^0.2.1",
+    "polygon-centroid": "^1.0.0",
+    "raphael": "^2.2.7",
+    "react": "^15.4.2",
+    "sass-loader": "^6.0.3",
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3",
+    "style-loader": "^0.15.0",
+    "svg-transform-parser": "^0.0.1",
+    "underscore": "^1.8.3",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
